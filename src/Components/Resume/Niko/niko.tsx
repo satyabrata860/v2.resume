@@ -23,8 +23,8 @@ export const Niko = ({edit}:{edit:boolean})=>{
   
                   <div className="info">
                     <h5 className="title" ><small>WEB:</small></h5>
-                    <p className='c-link'  data-editable={edit} contentEditable={edit} >www.timi.dev#about-me</p>
-                    <p className='c-link'  data-editable={edit} contentEditable={edit} >www.github.com/Timi-Leyin</p>
+                    <p className='c-link'  data-editable={edit} contentEditable={edit} >www.satya.dev#about-me</p>
+                    <p className='c-link'  data-editable={edit} contentEditable={edit} >www.github.com/satyabrata860</p>
                   </div>
                 </div>
                 <div className="con">
@@ -58,7 +58,7 @@ export const Niko = ({edit}:{edit:boolean})=>{
         <div className="about-intro">
         <div className="">
         <h1>
-            <p  data-editable={edit} contentEditable={edit}>TIMI LEYIN</p>
+            <p  data-editable={edit} contentEditable={edit}>SATYABRATA PRADHAN</p>
             <p  data-editable={edit} contentEditable={edit}>WEB DESIGNER</p>
           </h1>
         </div>
