@@ -28,7 +28,7 @@ export const Scoop = ({edit }:{edit:boolean}) => {
     </p>
     <p data-editable={edit} contentEditable={edit}>
         <b>Linkedln: </b>
-        <span> timmi-9128b239 </span>
+        <span> timmi-141602 </span>
     </p>
 
     </div>
