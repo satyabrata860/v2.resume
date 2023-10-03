@@ -85,7 +85,7 @@ gsap.to(".wheel", {
        <header id="header">
            <div className="header_logo">
                <h2>
-                   <span className="_block">Resume</span>
+                   <span className="_block">DEV.Resume</span>
                    <span className="_block s-2">Builder.V2</span>
                </h2>
            </div>
