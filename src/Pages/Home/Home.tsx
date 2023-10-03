@@ -86,11 +86,11 @@ gsap.to(".wheel", {
            <div className="header_logo">
                <h2>
                    <span className="_block">Resume</span>
-                   <span className="_block s-2">Builder</span>
+                   <span className="_block s-2">Builder.V2</span>
                </h2>
            </div>
 
-          <a href='https://github.com/Timi-Leyin/resume-builder'> <div className="star">
+          <a href='https://github.com/satyabrata860/v2.resume'> <div className="star">
            <FaStar /> Star on Github <FaGithub />
             </div> </a>
        </header>
