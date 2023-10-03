@@ -24,7 +24,7 @@ export const Niko = ({edit}:{edit:boolean})=>{
                   <div className="info">
                     <h5 className="title" ><small>WEB:</small></h5>
                     <p className='c-link'  data-editable={edit} contentEditable={edit} >www.satya.dev#about-me</p>
-                    <p className='c-link'  data-editable={edit} contentEditable={edit} >www.github.com/satyabrata860</p>
+                    <p className='c-link'  data-editable={edit} contentEditable={edit} >www.github.com/spradhan860</p>
                   </div>
                 </div>
                 <div className="con">
