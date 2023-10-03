@@ -41,8 +41,8 @@ export default  ({changePreview,preview}:{changePreview?:any,preview?:boolean})=
        <div className="options-panel">
      <Link to='/'>
      <h1 className="logo">
-         <p>Resume</p>
-         <p>Builder</p>
+         <p>DEV.Resume</p>
+         <p>Builder.V2</p>
        </h1>
      </Link>
    
@@ -160,7 +160,7 @@ export default  ({changePreview,preview}:{changePreview?:any,preview?:boolean})=
          </li>
    
          <li className="me">
-                <p>Made with <FaHeart style={{color:'red'}} />  by  <a style={{textDecoration:'underline'}} target='_blank' href="https://timileyin.netlify.app">Timi-Leyin</a> </p>
+                <p>Made with <FaHeart style={{color:'red'}} />  by  <a style={{textDecoration:'underline'}} target='_blank' href="https://satya-folio.vercel.app/">Satyabrata Pradhan</a> </p>
             </li>
        </ul>
      </div>
