@@ -48,7 +48,7 @@ const SectionRule = ({name,edit}:{name:string,edit:boolean})=>(
       
          <div className="contact">
         <span className="icon --primary-color"><FaTwitter className='--icon-color' color='red' /></span>
-         <span className="text" data-editable={edit} contentEditable={edit}>@originalTimi</span></div>
+         <span className="text" data-editable={edit} contentEditable={edit}>@originalSatya</span></div>
   
   
     </div>
