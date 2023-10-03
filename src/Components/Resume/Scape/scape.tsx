@@ -73,7 +73,7 @@ export const Scape = ({edit}:{edit:boolean})=>{
       Block 23D5 ipsum dolor sit amet consectetur elit, Consectetur, impedit!, Nigeria
         </p>
        <div>
-       <p  data-editable={edit} contentEditable={edit}>email: hello@timi.dev</p>
+       <p  data-editable={edit} contentEditable={edit}>email: hello@satya.dev</p>
        <p  data-editable={edit} contentEditable={edit}>call me: (234) 708 521 8197</p>
        </div>
       </div>
@@ -151,9 +151,9 @@ export const Scape = ({edit}:{edit:boolean})=>{
       <div className="">
         <div className="line-bottom --primary-bg"></div>
         <div className="bottom">
-          <p><b  data-editable={edit} contentEditable={edit}>My Resume </b> <span  data-editable={edit} contentEditable={edit}>Behance/Timi-Leyin</span></p>
+          <p><b  data-editable={edit} contentEditable={edit}>My Resume </b> <span  data-editable={edit} contentEditable={edit}>Behance/DEV-Satya</span></p>
         
-          <p><b  data-editable={edit} contentEditable={edit}>Facebook </b> <span  data-editable={edit} contentEditable={edit}>Facebook/Timi-Leyin</span></p>
+          <p><b  data-editable={edit} contentEditable={edit}>Facebook </b> <span  data-editable={edit} contentEditable={edit}>Facebook/DEV-Satya</span></p>
         
         </div>
       </div>
